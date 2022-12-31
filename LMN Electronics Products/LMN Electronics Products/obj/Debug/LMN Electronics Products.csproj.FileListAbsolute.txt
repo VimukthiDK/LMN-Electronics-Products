@@ -1,0 +1,56 @@
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\LMN Electronics Products.dll.config
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\LMN Electronics Products.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\LMN Electronics Products.pdb
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\csc.exe
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\csc.exe.config
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\csc.rsp
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\csi.exe
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\csi.exe.config
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\csi.rsp
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\Microsoft.Managed.Core.targets
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.AppContext.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.Collections.Immutable.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.Console.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.IO.Compression.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.IO.FileSystem.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.IO.Pipes.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.Reflection.Metadata.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.Security.AccessControl.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.Security.Claims.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.Security.Principal.Windows.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.ValueTuple.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.Xml.XmlDocument.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.Xml.XPath.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\vbc.exe
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\vbc.exe.config
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\vbc.rsp
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\VBCSCompiler.exe
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\roslyn\VBCSCompiler.exe.config
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\LMN\LMN Electronics Products\LMN Electronics Products\obj\Debug\LMN Electronics Products.csprojAssemblyReference.cache
+E:\LMN\LMN Electronics Products\LMN Electronics Products\obj\Debug\LMN Electronics Products.csproj.CoreCompileInputs.cache
+E:\LMN\LMN Electronics Products\LMN Electronics Products\obj\Debug\LMN Electronics Products.csproj.CopyComplete
+E:\LMN\LMN Electronics Products\LMN Electronics Products\obj\Debug\LMN Electronics Products.dll
+E:\LMN\LMN Electronics Products\LMN Electronics Products\obj\Debug\LMN Electronics Products.pdb
